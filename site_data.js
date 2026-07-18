@@ -65,7 +65,8 @@ var categories = [
             "MegaPersonals Accounts",
             "Tinder Account",
             " Twitter Accounts",
-            "GitHub Account"
+            "GitHub Account",
+            "Buy Facebook Accounts"
         ]
     }
 ];
@@ -142,6 +143,46 @@ var landingPageData = {
 
 // All Products Data
 var products = [
+    {
+        "id": 56,
+        "active": true,
+        "title": "Buy Facebook Accounts – Trusted & Reliable Facebook Accounts",
+        "display_title": "Buy Facebook Accounts",
+        "slug": "buy-facebook-accounts",
+        "category": "Accounts",
+        "image": "",
+        "image_title": "Buy Facebook Accounts – Trusted & Reliable Facebook Accounts",
+        "min_price": 15,
+        "max_price": 150,
+        "badge_color": "blue",
+        "is_sale": true,
+        "short_description": "Looking to buy Facebook accounts for personal, business, or other legitimate online activities, you can explore suitable options at BestPVA Shop. Each order is handled with attention to quality and customer service, marketing, or social media activities. BestPVA Shop offers a wide range of Facebook accounts designed to meet different user needs. Our platform focuses on quality, reliable service, fast delivery, and customer support.\n\nWhether you need Facebook accounts for social media management, business promotion, marketing campaigns, or satisfaction.",
+        "meta_description": "Buy Facebook accounts online from BestPVAShop. Explore quality Facebook account options with fast delivery, secure ordering, worldwide service, and reliable customer support.",
+        "features": [
+            "- Quality Facebook account options",
+            "- Fast and convenient delivery",
+            "- Worldwide service availability",
+            "- Secure ordering process",
+            "- Responsive customer support",
+            "- Multiple account options for different needs",
+            "- Easy ordering through BestPVA Shop"
+        ],
+        "pricing": [
+            "01 new fb accounts $15",
+            "03 new fb accounts $45",
+            "05 new fb accounts $70",
+            "01 fb 6 months old accounts $35",
+            "02 fb 6 months old accounts $65",
+            "01 fb 2-year-old accounts $75",
+            "01 fb 10-year-old accounts $150"
+        ],
+        "long_description": "<p>Detailed description...</p>",
+        "related_ids": [
+            12
+        ],
+        "seo_title": "Buy Facebook Accounts Online | Best PVA Shop",
+        "seo_tags": "buy Facebook accounts, buy Facebook account online, Facebook accounts for sale, verified Facebook accounts, aged Facebook accounts, quality Facebook accounts, Facebook account shop, Facebook accounts online, social media accounts, buy social media accounts, Facebook marketing accounts, Facebook business accounts, BestPVA Shop"
+    },
     {
         "id": 55,
         "active": true,
