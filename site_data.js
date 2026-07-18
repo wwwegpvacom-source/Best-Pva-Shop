@@ -11,7 +11,7 @@ var siteConfig = {
     "heroButtonText": "Explore Services",
     "heroButtonLink": "#products-section",
     "supportEmail": "support@bestpvashop.com",
-    "whatsapp": "+1(548)580-1949",
+    "whatsapp": "",
     "telegram": "BestPVAShop7",
     "themeColor": "#0B1120",
     "popupTitle": "",
