@@ -10,7 +10,7 @@ var siteConfig = {
     "heroSubtitle": "Phone Verified Accounts, Google Reviews & aged social media accounts — instant delivery, <span class='text-slate-200'>5,000+ happy customers</span>, backed by 24/7 support.",
     "heroButtonText": "Explore Services",
     "heroButtonLink": "#products-section",
-    "supportEmail": "support@bestpvashop.com",
+    "supportEmail": "bestpvashop.com@gmail.com",
     "whatsapp": "+1 (607) 371-9014",
     "telegram": "BestPVAShop7",
     "themeColor": "#0B1120",
