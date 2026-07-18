@@ -1,0 +1,7 @@
+# Netlify / Vercel Redirects
+# Force HTTPS is automatic on most modern hosts
+# Force non-WWW
+https://www.bestpvashop.com/* https://bestpvashop.com/:splat 301!
+
+# 301 Redirect: Old duplicate product slug → new differentiated slug (fixes keyword cannibalization)
+/product/google-5-star-reviews-strengthen-your-business-reputation-today/ /product/buy-google-5-star-reviews-for-local-business-boost-google-maps-ranking/ 301!
