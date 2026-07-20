@@ -31,7 +31,8 @@ var categories = [
         "content": "\n            <h2 class=\"text-3xl font-bold text-white mb-6\">Boost Your Business with Verified Google Services</h2>\n            <p class=\"text-slate-300 mb-4 text-lg\">\n                In today's digital landscape, Google dominates search and discovery. Having a strong presence on Google is not just an option; it's a necessity. \n                Our **Google Services** category offers a wide range of solutions designed to enhance your visibility, credibility, and operational efficiency.\n            </p>\n            <p class=\"text-slate-300 mb-8 text-lg\">\n                Whether you need to improve your local SEO with **Google Reviews**, manage multiple campaigns with **Google Ads Accounts**, or secure your communications with **Google Voice**, we have you covered. \n                All our accounts and services are 100% verified, safe, and delivered instantly.\n            </p>\n\n            <h3 class=\"text-2xl font-bold text-white mb-4\">Why Invest in Google Services?</h3>\n            <ul class=\"list-none space-y-4 mb-8 text-slate-300\">\n                <li class=\"flex items-start gap-3\">\n                    <i data-lucide=\"check-circle\" class=\"w-6 h-6 text-cyan-400 shrink-0 mt-1\"></i>\n                    <div>\n                        <strong class=\"text-white block text-lg\">Enhanced Local SEO</strong>\n                        Google Reviews are a key ranking factor for local businesses. More positive reviews mean higher visibility in Google Maps and Search.\n                    </div>\n                </li>\n                <li class=\"flex items-start gap-3\">\n                    <i data-lucide=\"check-circle\" class=\"w-6 h-6 text-cyan-400 shrink-0 mt-1\"></i>\n                    <div>\n                        <strong class=\"text-white block text-lg\">Operational Scalability</strong>\n                        With verified Google Ads and Gmail accounts, you can scale your marketing campaigns without fear of bans or restrictions.\n                    </div>\n                </li>\n                <li class=\"flex items-start gap-3\">\n                    <i data-lucide=\"check-circle\" class=\"w-6 h-6 text-cyan-400 shrink-0 mt-1\"></i>\n                    <div>\n                        <strong class=\"text-white block text-lg\">Professional Communication</strong>\n                        Google Voice numbers allow you to maintain a professional business line separate from your personal phone.\n                    </div>\n                </li>\n            </ul>\n\n            <h3 class=\"text-2xl font-bold text-white mb-4\">Our Top Google Products</h3>\n            <div class=\"grid grid-cols-1 md:grid-cols-2 gap-6 mb-8\">\n                <div class=\"bg-[#1E293B] p-6 rounded-xl border border-white/5\">\n                    <h4 class=\"text-xl font-bold text-white mb-2\">Google Reviews</h4>\n                    <p class=\"text-slate-400 text-sm mb-4\">Non-drop, sticky reviews from real device profiles. Perfect for boosting GMB ranking.</p>\n                    <a href=\"/product/buy-google-reviews/\" class=\"text-cyan-400 font-bold text-sm hover:underline\">View Packages &rarr;</a>\n                </div>\n                <div class=\"bg-[#1E293B] p-6 rounded-xl border border-white/5\">\n                    <h4 class=\"text-xl font-bold text-white mb-2\">Google Ads Accounts</h4>\n                    <p class=\"text-slate-400 text-sm mb-4\">Aged, verified accounts ready to run campaigns. Bypass warming periods.</p>\n                    <a href=\"/product/buy-google-ads-accounts/\" class=\"text-cyan-400 font-bold text-sm hover:underline\">View Packages &rarr;</a>\n                </div>\n            </div>\n\n            <h3 class=\"text-2xl font-bold text-white mb-4\">Buyer's Guide: How to Choose?</h3>\n            <p class=\"text-slate-300 mb-4\">\n                When selecting a service, consider your immediate business goals. If you are a local business, prioritize **Google Maps Reviews**. \n                For digital marketers, **Old Gmail Accounts** and **Google Voice** are essential tools for outreach and account management.\n            </p>\n            <p class=\"text-slate-300\">\n                At **BestPVAShop**, we ensure every product meets the highest standards of quality and security. Browse our selection below and take your Google presence to the next level.\n            </p>\n        ",
         "items": [
             "Google Gemini Pro",
-            "Old Gmail Accounts"
+            "Old Gmail Accounts",
+            "Buy LinkedIn Accounts"
         ]
     },
     {
@@ -157,6 +158,34 @@ var landingPageData = {
 
 // All Products Data
 var products = [
+    {
+        "id": 57,
+        "active": true,
+        "title": "Buy LinkedIn Accounts from a Trusted Online Provider",
+        "display_title": "Buy LinkedIn Accounts",
+        "slug": "buy-linkedin-accounts",
+        "category": "Google",
+        "image": "",
+        "image_title": "Buy LinkedIn Accounts from a Trusted Online Provider",
+        "min_price": 30,
+        "max_price": 80,
+        "badge_color": "blue",
+        "is_sale": true,
+        "short_description": "Looking to buy LinkedIn accounts for professional networking, outreach, marketing, or business development? Our platform provides quality LinkedIn profiles designed for users who want to expand their professional reach and connect with a wider audience.\nWhether you are a marketer, recruiter, entrepreneur, freelancer, or business owner, having access to LinkedIn profiles can help support your online networking strategy. We focus on providing reliable account options and a smooth ordering experience for customers worldwide.\nIf you are searching for buy LinkedIn accounts online, choose a provider that values quality, privacy, and customer support. Browse our available options and select the account that best matches your requirements.\nBuy LinkedIn accounts online today and take your professional networking strategy to the next level.",
+        "meta_description": "Looking to buy LinkedIn accounts? Explore quality LinkedIn profiles for networking, professional outreach, marketing, and business growth. Order online today.",
+        "features": [
+            "Feature 1",
+            "Feature 2"
+        ],
+        "pricing": [
+            "$10 - Option 1",
+            "$20 - Option 2"
+        ],
+        "long_description": "<p><span class=\"ql-cursor\">﻿</span>Detailed description...</p>",
+        "related_ids": [],
+        "seo_title": "Buy LinkedIn Accounts from a Trusted Online Provider 2026",
+        "seo_tags": "buy LinkedIn accounts, buy LinkedIn account, LinkedIn accounts for sale, buy LinkedIn profiles, LinkedIn accounts online, #professional LinkedIn accounts, #LinkedIn account marketplace"
+    },
     {
         "id": 56,
         "active": true,
