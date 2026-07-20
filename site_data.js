@@ -30,9 +30,7 @@ var categories = [
         "description": "Comprehensive Google services for business growth. From reviews to accounts, we cover everything.",
         "content": "\n            <h2 class=\"text-3xl font-bold text-white mb-6\">Boost Your Business with Verified Google Services</h2>\n            <p class=\"text-slate-300 mb-4 text-lg\">\n                In today's digital landscape, Google dominates search and discovery. Having a strong presence on Google is not just an option; it's a necessity. \n                Our **Google Services** category offers a wide range of solutions designed to enhance your visibility, credibility, and operational efficiency.\n            </p>\n            <p class=\"text-slate-300 mb-8 text-lg\">\n                Whether you need to improve your local SEO with **Google Reviews**, manage multiple campaigns with **Google Ads Accounts**, or secure your communications with **Google Voice**, we have you covered. \n                All our accounts and services are 100% verified, safe, and delivered instantly.\n            </p>\n\n            <h3 class=\"text-2xl font-bold text-white mb-4\">Why Invest in Google Services?</h3>\n            <ul class=\"list-none space-y-4 mb-8 text-slate-300\">\n                <li class=\"flex items-start gap-3\">\n                    <i data-lucide=\"check-circle\" class=\"w-6 h-6 text-cyan-400 shrink-0 mt-1\"></i>\n                    <div>\n                        <strong class=\"text-white block text-lg\">Enhanced Local SEO</strong>\n                        Google Reviews are a key ranking factor for local businesses. More positive reviews mean higher visibility in Google Maps and Search.\n                    </div>\n                </li>\n                <li class=\"flex items-start gap-3\">\n                    <i data-lucide=\"check-circle\" class=\"w-6 h-6 text-cyan-400 shrink-0 mt-1\"></i>\n                    <div>\n                        <strong class=\"text-white block text-lg\">Operational Scalability</strong>\n                        With verified Google Ads and Gmail accounts, you can scale your marketing campaigns without fear of bans or restrictions.\n                    </div>\n                </li>\n                <li class=\"flex items-start gap-3\">\n                    <i data-lucide=\"check-circle\" class=\"w-6 h-6 text-cyan-400 shrink-0 mt-1\"></i>\n                    <div>\n                        <strong class=\"text-white block text-lg\">Professional Communication</strong>\n                        Google Voice numbers allow you to maintain a professional business line separate from your personal phone.\n                    </div>\n                </li>\n            </ul>\n\n            <h3 class=\"text-2xl font-bold text-white mb-4\">Our Top Google Products</h3>\n            <div class=\"grid grid-cols-1 md:grid-cols-2 gap-6 mb-8\">\n                <div class=\"bg-[#1E293B] p-6 rounded-xl border border-white/5\">\n                    <h4 class=\"text-xl font-bold text-white mb-2\">Google Reviews</h4>\n                    <p class=\"text-slate-400 text-sm mb-4\">Non-drop, sticky reviews from real device profiles. Perfect for boosting GMB ranking.</p>\n                    <a href=\"/product/buy-google-reviews/\" class=\"text-cyan-400 font-bold text-sm hover:underline\">View Packages &rarr;</a>\n                </div>\n                <div class=\"bg-[#1E293B] p-6 rounded-xl border border-white/5\">\n                    <h4 class=\"text-xl font-bold text-white mb-2\">Google Ads Accounts</h4>\n                    <p class=\"text-slate-400 text-sm mb-4\">Aged, verified accounts ready to run campaigns. Bypass warming periods.</p>\n                    <a href=\"/product/buy-google-ads-accounts/\" class=\"text-cyan-400 font-bold text-sm hover:underline\">View Packages &rarr;</a>\n                </div>\n            </div>\n\n            <h3 class=\"text-2xl font-bold text-white mb-4\">Buyer's Guide: How to Choose?</h3>\n            <p class=\"text-slate-300 mb-4\">\n                When selecting a service, consider your immediate business goals. If you are a local business, prioritize **Google Maps Reviews**. \n                For digital marketers, **Old Gmail Accounts** and **Google Voice** are essential tools for outreach and account management.\n            </p>\n            <p class=\"text-slate-300\">\n                At **BestPVAShop**, we ensure every product meets the highest standards of quality and security. Browse our selection below and take your Google presence to the next level.\n            </p>\n        ",
         "items": [
-            "Google Gemini Pro",
-            "Old Gmail Accounts",
-            "Buy LinkedIn Accounts"
+            "Google Gemini Pro"
         ]
     },
     {
@@ -63,11 +61,10 @@ var categories = [
         "content": "<p><br></p>",
         "items": [
             "Verified WeChat Account",
-            "MegaPersonals Accounts",
-            "Tinder Account",
             " Twitter Accounts",
-            "GitHub Account",
-            "Buy Facebook Accounts"
+            "Buy Facebook Accounts",
+            "Buy LinkedIn Accounts",
+            "GitHub Account"
         ]
     },
     {
@@ -75,14 +72,19 @@ var categories = [
         "slug": "Email Accounts",
         "description": "Buy Email Accounts\nLooking to buy email accounts for your online needs? Explore a wide selection of reliable email accounts suitable for personal, business, marketing, and other online activities. Our email accounts are available with different options to match your requirements. Choose the email account that fits your needs and enjoy a simple ordering process with responsive customer support. Browse our collection today and find the right email account for your online activities.",
         "content": "<h2><strong>Looking to buy email accounts for your online activities? </strong></h2><p>Explore our wide selection of email accounts designed for different personal, business, marketing, and digital needs. Whether you need an email account for communication, online registrations, business activities, or other legitimate purposes, we offer a variety of options to help you find the right solution.</p><p>Our email account collection includes different types of accounts with varying features, availability, and account details. You can browse our category and choose an option that best matches your requirements. We focus on providing a smooth ordering experience, clear product information, and responsive customer support to help make your purchase simple and convenient.</p><p>Before placing an order, carefully review the product description and available account details to select the option that is most suitable for your needs. We aim to make the process of finding and purchasing email accounts easy, straightforward, and reliable.</p><p>Browse our <strong>Buy Email Accounts</strong> category today to explore the available options and find an email account that matches your online requirements.</p>",
-        "items": []
+        "items": [
+            "Old Gmail Accounts"
+        ]
     },
     {
         "name": "Dating Accounts",
         "slug": "Dating Accounts",
         "description": "Dating Accounts\nExplore a wide selection of dating accounts for users across the USA and worldwide. Our dating account collection includes options for different platforms and preferences, making it easy to find the right account for your online dating needs. Browse our available dating accounts and choose the option that best matches your requirements.",
         "content": "<p><br></p>",
-        "items": []
+        "items": [
+            "MegaPersonals Accounts",
+            "Tinder Account"
+        ]
     }
 ];
 
@@ -164,7 +166,7 @@ var products = [
         "title": "Buy LinkedIn Accounts from a Trusted Online Provider",
         "display_title": "Buy LinkedIn Accounts",
         "slug": "buy-linkedin-accounts",
-        "category": "Google",
+        "category": "Accounts",
         "image": "",
         "image_title": "Buy LinkedIn Accounts from a Trusted Online Provider",
         "min_price": 30,
@@ -181,7 +183,7 @@ var products = [
             "$10 - Option 1",
             "$20 - Option 2"
         ],
-        "long_description": "<p><span class=\"ql-cursor\">﻿</span>Detailed description...</p>",
+        "long_description": "<p>﻿Detailed description...</p>",
         "related_ids": [],
         "seo_title": "Buy LinkedIn Accounts from a Trusted Online Provider 2026",
         "seo_tags": "buy LinkedIn accounts, buy LinkedIn account, LinkedIn accounts for sale, buy LinkedIn profiles, LinkedIn accounts online, #professional LinkedIn accounts, #LinkedIn account marketplace"
@@ -365,7 +367,7 @@ var products = [
         "title": "MegaPersonals Accounts to Buy",
         "display_title": "MegaPersonals Accounts",
         "slug": "megapersonals-accounts-instant-access-to-verified-classified-ad-accounts",
-        "category": "Accounts",
+        "category": "Dating Accounts",
         "image": "/images/products/BUY MEGA PERSONAL ACCOUTNS.png",
         "image_title": "Buy MegaPersonals accounts safely for classified ad management",
         "min_price": 30,
@@ -467,7 +469,7 @@ var products = [
         "title": "Buy Verified Tinder Account",
         "display_title": "Tinder Account",
         "slug": "premium-tinder-account-verified--ready-to-use",
-        "category": "Accounts",
+        "category": "Dating Accounts",
         "image": "/images/products/BUY TINDER ACCOUNTS.png",
         "image_title": "Tinder Account – Instant Delivery | Buy with Confidence",
         "min_price": 13,
@@ -502,7 +504,7 @@ var products = [
     {
         "id": 4,
         "title": "Buy Old Gmail Accounts",
-        "category": "Google",
+        "category": "Email Accounts",
         "slug": "old-gmail-accounts-aged-trusted--ready-for-immediate-use",
         "min_price": 15,
         "max_price": 1500,
