@@ -68,6 +68,13 @@ var categories = [
             "GitHub Account",
             "Buy Facebook Accounts"
         ]
+    },
+    {
+        "name": "Email Accounts",
+        "slug": "Email Accounts",
+        "description": "Buy Email Accounts\nLooking to buy email accounts for your online needs? Explore a wide selection of reliable email accounts suitable for personal, business, marketing, and other online activities. Our email accounts are available with different options to match your requirements. Choose the email account that fits your needs and enjoy a simple ordering process with responsive customer support. Browse our collection today and find the right email account for your online activities.",
+        "content": "<h2><strong>Looking to buy email accounts for your online activities? </strong></h2><p>Explore our wide selection of email accounts designed for different personal, business, marketing, and digital needs. Whether you need an email account for communication, online registrations, business activities, or other legitimate purposes, we offer a variety of options to help you find the right solution.</p><p>Our email account collection includes different types of accounts with varying features, availability, and account details. You can browse our category and choose an option that best matches your requirements. We focus on providing a smooth ordering experience, clear product information, and responsive customer support to help make your purchase simple and convenient.</p><p>Before placing an order, carefully review the product description and available account details to select the option that is most suitable for your needs. We aim to make the process of finding and purchasing email accounts easy, straightforward, and reliable.</p><p>Browse our <strong>Buy Email Accounts</strong> category today to explore the available options and find an email account that matches your online requirements.</p>",
+        "items": []
     }
 ];
 
