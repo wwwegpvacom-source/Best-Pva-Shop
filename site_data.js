@@ -58,7 +58,7 @@ var categories = [
     {
         "name": "Accounts",
         "slug": "accounts",
-        "description": "",
+        "description": "Social Media Accounts\nExplore a wide selection of social media accounts for different online needs. Our collection includes accounts from popular social platforms, including social media, email, professional networking, entertainment, and other online services. Whether you need an account for marketing, business promotion, online networking, or personal use, you can find various options in our accounts category. Browse our available accounts and choose the option that best suits your requirements.",
         "content": "<p><br></p>",
         "items": [
             "Verified WeChat Account",
