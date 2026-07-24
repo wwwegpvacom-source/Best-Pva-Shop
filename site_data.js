@@ -51,7 +51,8 @@ var categories = [
         "content": "\n            <h2 class=\"text-3xl font-bold text-white mb-6\">Secure Verified Banking & Crypto Accounts</h2>\n            <p class=\"text-slate-300 mb-4 text-lg\">\n                The financial world is tightening regulations. Opening accounts on platforms like **Binance**, **Wise**, or **PayPal** can be a nightmare of paperwork and KYC (Know Your Customer) delays. \n                **BestPVAShop** simplifies this. We offer fully verified, Tier-1 accounts ready for immediate use.\n            </p>\n            <p class=\"text-slate-300 mb-8 text-lg\">\n                Whether you are a freelancer receiving international payments, a crypto trader needing multiple exchange accounts, or an e-commerce seller, our verified accounts are the solution.\n            </p>\n\n            <h3 class=\"text-2xl font-bold text-white mb-4\">What We Offer</h3>\n            <div class=\"grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8\">\n                <div class=\"bg-[#1E293B] p-4 rounded-lg border border-white/5\">\n                    <h4 class=\"font-bold text-cyan-400 mb-1\">Crypto Exchanges</h4>\n                    <p class=\"text-slate-400 text-sm\">Binance, Kraken, KuCoin, ByBit, Paxful, and more. Full KYC completed.</p>\n                </div>\n                <div class=\"bg-[#1E293B] p-4 rounded-lg border border-white/5\">\n                    <h4 class=\"font-bold text-blue-400 mb-1\">Digital Banks</h4>\n                    <p class=\"text-slate-400 text-sm\">Wise, Payoneer, Revolut, Bluebird. Perfect for cross-border transactions.</p>\n                </div>\n                <div class=\"bg-[#1E293B] p-4 rounded-lg border border-white/5\">\n                    <h4 class=\"font-bold text-indigo-400 mb-1\">Payment Gateways</h4>\n                    <p class=\"text-slate-400 text-sm\">Verified PayPal, Stripe, and Cash App accounts for merchants.</p>\n                </div>\n                <div class=\"bg-[#1E293B] p-4 rounded-lg border border-white/5\">\n                    <h4 class=\"font-bold text-purple-400 mb-1\">Wallets</h4>\n                    <p class=\"text-slate-400 text-sm\">Neteller, Skrill, Webmoney, Perfect Money.</p>\n                </div>\n            </div>\n\n            <h3 class=\"text-2xl font-bold text-white mb-4\">Safety & Compliance</h3>\n            <p class=\"text-slate-300 mb-6\">\n                Buying financial accounts requires trust. We ensure:\n            </p>\n            <ul class=\"list-none space-y-3 mb-8 text-slate-300\">\n                <li class=\"flex items-center gap-2\"><i data-lucide=\"lock\" class=\"w-4 h-4 text-green-500\"></i> <strong>Full Access:</strong> You get email, phone, and recovery access.</li>\n                <li class=\"flex items-center gap-2\"><i data-lucide=\"file-check\" class=\"w-4 h-4 text-green-500\"></i> <strong>Documents Included:</strong> ID/Passport scans provided for future verification if needed.</li>\n                <li class=\"flex items-center gap-2\"><i data-lucide=\"shield\" class=\"w-4 h-4 text-green-500\"></i> <strong>Clean History:</strong> No previous transaction history or flags.</li>\n            </ul>\n\n            <div class=\"bg-red-500/10 border border-red-500/20 p-4 rounded-xl mb-8\">\n                <strong class=\"text-red-400\">Important Note:</strong>\n                <p class=\"text-slate-400 text-sm mt-1\">\n                    These accounts are for legitimate business and personal use. Please use them responsibly and adhere to the platform's terms of service.\n                </p>\n            </div>\n\n            <p class=\"text-slate-300\">\n                Secure your financial freedom today. Browse our extensive list of verified banking and crypto accounts below.\n            </p>\n        ",
         "items": [
             "PayPal Account",
-            "Verified Cash App Accounts"
+            "Verified Cash App Accounts",
+            "Buy Chime Bank Accounts"
         ]
     },
     {
@@ -160,6 +161,34 @@ var landingPageData = {
 
 // All Products Data
 var products = [
+    {
+        "id": 58,
+        "active": true,
+        "title": "Buy Chime Bank Accounts",
+        "display_title": "Buy Chime Bank Accounts",
+        "slug": "buy-chime-bank-accounts",
+        "category": "Bank & Crypto",
+        "image": "",
+        "image_title": "Buy Chime Bank Accounts",
+        "min_price": 150,
+        "max_price": 370,
+        "badge_color": "blue",
+        "is_sale": true,
+        "short_description": "Need a reliable source to buy Chime accounts? We provide carefully verified accounts with a focus on quality, fast delivery, and responsive customer support. Every order is handled professionally to ensure a smooth purchasing experience. Whether you're looking for dependable account solutions or long-term service, we are committed to delivering trusted products at competitive prices. Choose us for secure transactions, quick assistance, and customer satisfaction every step of the way.",
+        "meta_description": "",
+        "features": [
+            "Feature 1",
+            "Feature 2"
+        ],
+        "pricing": [
+            "$10 - Option 1",
+            "$20 - Option 2"
+        ],
+        "long_description": "<p>Detailed description...</p>",
+        "related_ids": [],
+        "seo_title": "Buy Chime Bank Accounts ",
+        "seo_tags": "buy chime bank accounts, chime, USA chime  "
+    },
     {
         "id": 57,
         "active": true,
