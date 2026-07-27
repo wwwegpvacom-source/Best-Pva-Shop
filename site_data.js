@@ -65,7 +65,9 @@ var categories = [
             " Twitter Accounts",
             "GitHub Account",
             "Buy LinkedIn Accounts",
-            "Buy Facebook Accounts"
+            "Buy Facebook Accounts",
+            "Buy Reddit Accounts",
+            "Buy Telegram Accounts"
         ]
     },
     {
@@ -161,6 +163,85 @@ var landingPageData = {
 
 // All Products Data
 var products = [
+    {
+        "id": 60,
+        "active": true,
+        "title": "Buy Telegram Accounts – Premium Aged & Verified Accounts",
+        "display_title": "Buy Telegram Accounts",
+        "slug": "new-product-60",
+        "category": "Accounts",
+        "image": "Buy Telegram Accounts",
+        "image_title": "Buy Telegram Accounts – Premium Aged & Verified Accounts",
+        "min_price": 5,
+        "max_price": 15,
+        "badge_color": "blue",
+        "is_sale": true,
+        "short_description": "Looking to buy Telegram accounts? BestPVAShop.com offers high-quality, reliable Telegram accounts with fast delivery and great prices. Choose from single or bulk options with easy ordering and excellent support.",
+        "meta_description": "Buy Telegram accounts from BestPVAShop.com. Choose from aged and verified Telegram accounts with fast delivery, competitive pricing, secure ordering, and responsive customer support for your business and communication needs.",
+        "features": [
+            "Aged Telegram Accounts",
+            "Verified Account Options",
+            "Ready-to-Use Accounts",
+            "Fast Digital Delivery",
+            "Affordable Pricing",
+            "Bulk Orders Available",
+            "Secure Checkout",
+            "Reliable Customer Support",
+            "Worldwide Delivery",
+            "Quality Checked Accounts",
+            "Multiple Account Options",
+            "Privacy-Focused Service",
+            "Easy Ordering Process"
+        ],
+        "pricing": [
+            "01 New USA Telegram account $5",
+            "01 New Japan Telegram account $7",
+            "01 old USA Telegram account $10",
+            "01 old USA premium Telegram account $15"
+        ],
+        "long_description": "<p>Detailed description...</p>",
+        "related_ids": [
+            59
+        ],
+        "seo_title": "Buy Telegram Accounts | Aged & Verified Telegram Accounts for Sale – BestPVAShop.com",
+        "seo_tags": "Buy Telegram Accounts USA, Uk, Canada, Japan"
+    },
+    {
+        "id": 59,
+        "active": true,
+        "title": "Buy Reddit Accounts – High-Quality Aged & Verified Reddit Accounts",
+        "display_title": "Buy Reddit Accounts",
+        "slug": "buy-reddit-accounts",
+        "category": "Accounts",
+        "image": "",
+        "image_title": "Buy Reddit Accounts – High-Quality Aged & Verified Reddit Accounts",
+        "min_price": 5,
+        "max_price": 99,
+        "badge_color": "blue",
+        "is_sale": true,
+        "short_description": "Looking for quality Reddit accounts? We offer aged and verified Reddit accounts tailored for a variety of legitimate uses such as community participation, brand engagement, and digital marketing. Each account is carefully prepared to help you get started quickly and securely. Enjoy competitive pricing, fast delivery, and responsive customer support for a seamless purchasing experience.",
+        "meta_description": "Buy Reddit accounts with a trusted account history and a range of account ages. Choose quality Reddit accounts for marketing, community participation, and business needs with secure delivery and reliable customer support.",
+        "features": [
+            "High-Quality Reddit Accounts",
+            "Aged Reddit Accounts Available",
+            "Verified Account Options",
+            "Multiple Account Age Choices",
+            "Active & Ready-to-Use Accounts",
+            "Fast & Secure Delivery",
+            "Trusted Customer Support",
+            "Instant Digital Delivery",
+            "Easy Ordering Process",
+            "Worldwide Availability",
+            "Reliable Quality Check",
+            "Regular Stock Updates",
+            "Safe Payment Options"
+        ],
+        "pricing": [],
+        "long_description": "<p>Detailed description...</p>",
+        "related_ids": [],
+        "seo_title": "Buy Reddit Accounts | Aged & Verified Reddit Accounts for Sale",
+        "seo_tags": ""
+    },
     {
         "id": 58,
         "active": true,
