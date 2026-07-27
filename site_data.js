@@ -196,7 +196,7 @@ var products = [
         "display_title": "Buy LinkedIn Accounts",
         "slug": "buy-linkedin-accounts",
         "category": "Accounts",
-        "image": "",
+        "image": "/images/products/Buy LinkedIn Accounts.webp",
         "image_title": "Buy LinkedIn Accounts from a Trusted Online Provider",
         "min_price": 30,
         "max_price": 80,
