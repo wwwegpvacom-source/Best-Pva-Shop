@@ -63,9 +63,9 @@ var categories = [
         "items": [
             "Verified WeChat Account",
             " Twitter Accounts",
-            "Buy Facebook Accounts",
             "GitHub Account",
-            "Buy LinkedIn Accounts"
+            "Buy LinkedIn Accounts",
+            "Buy Facebook Accounts"
         ]
     },
     {
@@ -231,7 +231,7 @@ var products = [
         "display_title": "Buy Facebook Accounts",
         "slug": "buy-facebook-accounts",
         "category": "Accounts",
-        "image": "",
+        "image": "/images/products/Buy Facebook Accounts (1).webp",
         "image_title": "Buy Facebook Accounts – Trusted & Reliable Facebook Accounts",
         "min_price": 15,
         "max_price": 150,
