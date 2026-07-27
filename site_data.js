@@ -168,7 +168,7 @@ var products = [
         "display_title": "Buy Chime Bank Accounts",
         "slug": "buy-chime-bank-accounts",
         "category": "Bank & Crypto",
-        "image": "/images/products/httpsbestpvashop.comproductbuy-chime-bank-accounts.webp",
+        "image": "/images/products/httpsbestpvashop.comproductbuy-chime-bank-accounts (1).webp",
         "image_title": "Buy Chime Bank Accounts",
         "min_price": 150,
         "max_price": 370,
