@@ -87,7 +87,8 @@ var categories = [
         "items": [
             "MegaPersonals Accounts",
             "Tinder Account",
-            "Buy Bumble Accounts"
+            "Buy Bumble Accounts",
+            "Buy Facebook Dating Accounts"
         ]
     }
 ];
@@ -164,6 +165,44 @@ var landingPageData = {
 
 // All Products Data
 var products = [
+    {
+        "id": 62,
+        "active": true,
+        "title": "Buy Facebook Dating Accounts - Verified Accounts, BestPVAShop",
+        "display_title": "Buy Facebook Dating Accounts",
+        "slug": "buy-facebook-dating-accounts",
+        "category": "Dating Accounts",
+        "image": "",
+        "image_title": "Buy Facebook Dating Accounts - Verified Accounts | BestPVAShop",
+        "min_price": 65,
+        "max_price": 320,
+        "badge_color": "blue",
+        "is_sale": true,
+        "short_description": "Buy Facebook Dating Accounts\nLooking for high-quality Facebook Dating accounts? BestPVAShop.com offers a selection of verified and reliable Facebook Dating accounts suitable for marketing, testing, research, and other legitimate business purposes. Our focus is on providing dependable accounts with responsive customer support and a smooth purchasing experience. Explore our available options and choose the account type that best fits your needs.",
+        "meta_description": "Find quality Facebook Dating accounts for your business and marketing needs. Secure, verified options with reliable support at BestPVAShop.com.",
+        "features": [
+            "Buy Facebook Dating Accounts",
+            "Facebook Dating Accounts for Sale",
+            "Verified Facebook Dating Accounts",
+            "Premium Facebook Dating Accounts",
+            "Aged Facebook Dating Accounts",
+            "USA Facebook Dating Accounts",
+            "Buy Phone Verified Facebook Dating Accounts",
+            "High-Quality Facebook Dating Accounts",
+            "Bulk Facebook Dating Accounts",
+            "Facebook Dating Account Provider"
+        ],
+        "pricing": [
+            "01 fb dating account $65",
+            "01 old fb dating account $120",
+            "01 Verified fb dating account $230",
+            "01 old Verified dating account $320"
+        ],
+        "long_description": "<p>Detailed description...</p>",
+        "related_ids": [],
+        "seo_title": "Buy Facebook Dating Accounts – Verified & High-Quality Accounts",
+        "seo_tags": ""
+    },
     {
         "id": 61,
         "active": true,
