@@ -65,9 +65,9 @@ var categories = [
             "GitHub Account",
             "Buy LinkedIn Accounts",
             "Buy Facebook Accounts",
-            "Buy Reddit Accounts",
             " Twitter Accounts",
-            "Buy Telegram Accounts"
+            "Buy Telegram Accounts",
+            "Buy Reddit Accounts"
         ]
     },
     {
@@ -87,8 +87,8 @@ var categories = [
         "items": [
             "MegaPersonals Accounts",
             "Tinder Account",
-            "Buy Bumble Accounts",
-            "Buy Facebook Dating Accounts"
+            "Buy Facebook Dating Accounts",
+            "Buy Bumble Accounts"
         ]
     }
 ];
@@ -172,7 +172,7 @@ var products = [
         "display_title": "Buy Facebook Dating Accounts",
         "slug": "buy-facebook-dating-accounts",
         "category": "Dating Accounts",
-        "image": "",
+        "image": "/images/products/httpsbestpvashop.comproductbuy-facebook-dating-accounts.webp",
         "image_title": "Buy Facebook Dating Accounts - Verified Accounts | BestPVAShop",
         "min_price": 65,
         "max_price": 320,
@@ -210,7 +210,7 @@ var products = [
         "display_title": "Buy Bumble Accounts",
         "slug": "buy-bumble-accounts",
         "category": "Dating Accounts",
-        "image": "",
+        "image": "/images/products/httpsbestpvashop.comproductbuy-bumble-accounts (1).webp",
         "image_title": "Buy Bumble Accounts – Trusted USA Bumble Accounts",
         "min_price": 65,
         "max_price": 350,
@@ -252,7 +252,7 @@ var products = [
         "display_title": "Buy Telegram Accounts",
         "slug": "buy-telegram-accounts",
         "category": "Accounts",
-        "image": "Buy Telegram Accounts",
+        "image": "/images/products/httpsbestpvashop.comproductbuy-telegram-accounts.webp",
         "image_title": "Buy Telegram Accounts – Premium Aged & Verified Accounts",
         "min_price": 5,
         "max_price": 15,
@@ -295,7 +295,7 @@ var products = [
         "display_title": "Buy Reddit Accounts",
         "slug": "buy-reddit-accounts",
         "category": "Accounts",
-        "image": "",
+        "image": "/images/products/httpsbestpvashop.comproductbuy-reddit-accounts.webp",
         "image_title": "Buy Reddit Accounts – High-Quality Aged & Verified Reddit Accounts",
         "min_price": 5,
         "max_price": 99,
