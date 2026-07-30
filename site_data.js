@@ -66,8 +66,8 @@ var categories = [
             "Buy LinkedIn Accounts",
             "Buy Facebook Accounts",
             "Buy Reddit Accounts",
-            "Buy Telegram Accounts",
-            " Twitter Accounts"
+            " Twitter Accounts",
+            "Buy Telegram Accounts"
         ]
     },
     {
@@ -250,7 +250,7 @@ var products = [
         "active": true,
         "title": "Buy Telegram Accounts – Premium Aged & Verified Accounts",
         "display_title": "Buy Telegram Accounts",
-        "slug": "new-product-60",
+        "slug": "buy-telegram-accounts",
         "category": "Accounts",
         "image": "Buy Telegram Accounts",
         "image_title": "Buy Telegram Accounts – Premium Aged & Verified Accounts",
