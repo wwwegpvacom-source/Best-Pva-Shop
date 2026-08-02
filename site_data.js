@@ -3,7 +3,7 @@
 // --- Site Configuration (CMS Data) ---
 var siteConfig = {
     "siteTitle": "Buy PVA Accounts – Verified Google Reviews & Aged Social Accounts | BestPVAShop",
-    "metaDescription": "Buy PVA accounts, Google reviews, old Gmail accounts & aged social media accounts from BestPVAShop. Verified, instant delivery, 5,000+ satisfied customers. Packages from $9.",
+    "metaDescription": "Buy PVA accounts, Google reviews, old Gmail accounts & aged social media accounts from BestPVAShop. Verified, instant delivery, 5,000+ satisfied customers......",
     "logoText": "BestPVAShop",
     "logoBadge": "🔥",
     "heroTitle": "Buy Verified <span class='text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 text-glow'>PVA Accounts</span> <br/>& Authentic Google Reviews",
@@ -14,8 +14,8 @@ var siteConfig = {
     "whatsapp": "+1 (607) 371-9014",
     "telegram": "BestPVAShop7",
     "themeColor": "#0B1120",
-    "popupTitle": "",
-    "popupMessage": "",
+    "popupTitle": "Need Help?",
+    "popupMessage": "Chat with us on WhatsApp: +1 (607) 371-9014 Fast reply • 24/7 Support",
     "faviconUrl": "/favicon.svg",
     "logoUrl": "/favicon.svg",
     "analyticsId": "G-KFPRTJHYQ8",
