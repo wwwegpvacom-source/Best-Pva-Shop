@@ -2,12 +2,12 @@
 
 // --- Site Configuration (CMS Data) ---
 var siteConfig = {
-    "siteTitle": "Buy PVA Accounts – Verified Google Reviews & Aged Social Accounts | BestPVAShop",
-    "metaDescription": "Buy PVA accounts, Google reviews, old Gmail accounts & aged social media accounts from BestPVAShop. Verified, instant delivery, 5,000+ satisfied customers......",
+    "siteTitle": "BestPVAShop – PVA Accounts & Digital Services",
+    "metaDescription": "BestPVAShop provides online digital services and account-related solutions. Explore our products, service information, and customer support.",
     "logoText": "BestPVAShop",
     "logoBadge": "🔥",
-    "heroTitle": "Buy Verified <span class='text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 text-glow'>PVA Accounts</span> <br/>& Authentic Google Reviews",
-    "heroSubtitle": "Phone Verified Accounts, Google Reviews & aged social media accounts — instant delivery, <span class='text-slate-200'>5,000+ happy customers</span>, backed by 24/7 support.",
+    "heroTitle": "BestPVAShop – <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 text-glow\">Trusted Digital Services</span><br/>Online Support & Solutions",
+    "heroSubtitle": "Explore <span class=\"text-slate-200\">BestPVAShop</span> for digital services, product information, and responsive customer support.",
     "heroButtonText": "Explore Services",
     "heroButtonLink": "#products-section",
     "supportEmail": "bestpvashop.com@gmail.com",
