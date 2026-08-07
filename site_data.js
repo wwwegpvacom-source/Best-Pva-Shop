@@ -12,7 +12,7 @@ var siteConfig = {
     "heroButtonLink": "#products-section",
     "supportEmail": "bestpvashop.com@gmail.com",
     "whatsapp": "+1 (607) 371-9014",
-    "telegram": "BestPVAShop7",
+    "telegram": "BestPVAShopadmin",
     "themeColor": "#0B1120",
     "popupTitle": "Need Help?",
     "popupMessage": "Chat with us on WhatsApp: +1 (607) 371-9014 Fast reply • 24/7 Support",
