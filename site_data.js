@@ -5,7 +5,7 @@ var siteConfig = {
     "siteTitle": "BestPVAShop – Digital Services & Online Solutions",
     "metaDescription": "BestPVAShop provides digital services and online solutions for businesses and creators. Explore our services, resources, and customer support.",
     "logoText": "BestPVAShop",
-    "logoBadge": "🔥",
+    "logoBadge": "✓",
     "heroTitle": "BestPVAShop – <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 text-glow\">Digital Services</span><br>Online Support & Solutions",
     "heroSubtitle": "Explore practical digital services, online resources, and reliable solutions designed to help businesses and creators grow.",
     "heroButtonText": "Explore Services",
